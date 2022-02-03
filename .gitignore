@@ -4,9 +4,7 @@
 # Environment
 .env
 
-# Stardew Valley devcontainer specific
-_gamedirref
-_gamedirref/*
+
 
 # User-specific files
 *.suo
